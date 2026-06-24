@@ -95,3 +95,9 @@ button {
 .footer .h2 {
   font-size: 30px;
 }
+.footer ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  gap: 16px;
+}
